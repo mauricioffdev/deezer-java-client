@@ -12,7 +12,7 @@ As classes foram mantidas com comentários detalhados para facilitar o estudo e 
 
 ## 🚀 Tecnologias Utilizadas
 
-* **Java 11+**: Utiliza o `HttpClient` nativo do Java para fazer as requisições HTTP.
+* **JDK 25**: Utiliza o `HttpClient` nativo do Java para fazer as requisições HTTP.
 * **Maven**: Para gerenciamento de dependências do projeto.
 * **Gson**: Biblioteca do Google para fazer o "parse" (conversão) da resposta JSON da API em objetos Java.
 * **API do Deezer**: Fonte de dados pública para busca de artistas.
